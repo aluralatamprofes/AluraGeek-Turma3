@@ -5,7 +5,7 @@
 </p>
 
 ### Neste repositório você encontrará o código que contruímos em nosso Live Coding do dia 21/04/2022.
-### O nosso objetivo era construir estaticamente a nossa página inicial e não implementámos ainda nenhuma funcionalidade JavaScript até o momento.
+### O nosso objetivo era construir estaticamente a nossa página inicial e não implementamos ainda nenhuma funcionalidade JavaScript até o momento.
 
 ## O que você vai encontrar?
 
