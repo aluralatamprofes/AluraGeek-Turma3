@@ -52,7 +52,7 @@ Não se esqueça de publicar os links ou vídeos de seu projeto no Linkedin e em
 
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeonejogoforca3**".
+Adicione a tag "**challengeonealurageeekbr3**".
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
