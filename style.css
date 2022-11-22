@@ -64,8 +64,8 @@ nav{
 }
 
     .logo{
-        display: flex;
-        align-items: center;
+       display: flex;
+       align-items:center;
     }
 
     .logo img{
@@ -74,8 +74,8 @@ nav{
     }
 
     .logo p{
-        font-size: 26px;
-        font-weight: bolder;
+      font-size: 26px;
+      font-weight: bolder;
     }
 
     .logo .logo-azul{
@@ -84,28 +84,28 @@ nav{
     }
 
     .logo-busca input{
-        margin-left: 10%;
-        width: 393px;
-        height: 40px;
-        border-radius: 30px;
-        padding: 1% 3%;
-        border: none;
-        background-color: var(--input-bg);
-        background-image: url("assets/lupa.png");
-        background-repeat: no-repeat;
-        background-position: right;
-        background-position-x: 320px;
+       margin-left: 10%;
+       width: 393px;
+       height: 40px;
+       padding: 1% 3%;
+       border-radius: 30px;
+       border: none;
+       background-color: var(--input-bg);
+       background-image: url("assets/lupa.png");
+       background-repeat: no-repeat;
+       background-position: right;
+       background-position-x: 320px;
     }
 
     .login{
-        width: 600px;
-        display: flex;
-        justify-content: end;
+       width: 600px;
+       display: flex;
+       justify-content: end;
     }
 
     .login button{
         width: 182px;
-        height: 51px;
+        height: 54px;
         background: none;
         border: solid 1px var(--azul-destaque);
         color: var(--azul-destaque);
@@ -134,19 +134,19 @@ nav{
         display: flex;
         flex-direction: column;
         justify-content: end;
+      
     }
 
     .banner h1{
-        color: var(--texto-destaque);
-        font-size: 52px;
-        font-weight: bold;
-
+       color: var(--texto-destaque);
+       font-size: 52px;
+       font-weight: bolder;
     }
 
     .banner h4{
         color: var(--texto-destaque);
         font-size: 22px;
-        font-weight: bold;
+        font-weight: bolder;
     }
 
     .banner button{
@@ -162,8 +162,9 @@ nav{
 .geral-prods{
     display: flex;
     flex-direction: column;
-    width: 1136px;
+    width: 1135px;
     margin: 0 auto;
+   
 }
 
 /*Divs na Sessão Produtos*/
@@ -173,27 +174,36 @@ nav{
 
     .prod-titulo{
         display: flex;
+        font-weight: bolder;
         justify-content: space-between;
     }
 
     .prod-titulo .titulo{
-        font-size: 32px;
-        font-weight: bold;
+       font-size: 32px;
     }
 
     .mostrar-mais{
+        font-size: 16px;
         font-weight: bold;
         margin-top: 25px;
     }
 
     .sessao-produtos{
-        height: 306px;
-        width: 1136px;
-        justify-content: space-between;
-        display: flex;
-        margin-bottom: 64px;
+      height: 305px;
+      width: 1136px;
+      justify-content: space-between;
     }
 
+    .sessao-produtos img{
+        width: 150px;
+        height: 150px;
+    }
+
+    .produto{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
 /*Form Contato*/
 
 .contato{
@@ -213,6 +223,11 @@ nav{
     .referencia img{
         width: 60px;
         height: 40px;
+    }
+
+    .img-crud{
+        width: 250px;
+        height: 200px;
     }
 
     .referencia p{
